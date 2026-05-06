@@ -1,0 +1,14 @@
+# Capstone package — Python dependencies
+# Tested against Python 3.11
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+statsmodels>=0.14
+matplotlib>=3.8
+jupyter>=1.0
+nbformat>=5.9
+nbconvert>=7.0
+
+# Optional — only required if you run notebook 01 against raw BPIC XES files.
+# Comment out if you are running on the synthetic processed CSVs only.
+pm4py>=2.7
