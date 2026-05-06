@@ -1,0 +1,21 @@
+activity_name,stage_id,stage_name
+A_Create Application,S1,Application Intake and Validation
+A_Concept,S1,Application Intake and Validation
+A_Accepted,S1,Application Intake and Validation
+A_Complete,S1,Application Intake and Validation
+A_Validating,S1,Application Intake and Validation
+A_Incomplete,S1,Application Intake and Validation
+W_Validate application,S1,Application Intake and Validation
+W_Handle leads,S1,Application Intake and Validation
+O_Create Offer,S2,Offer Preparation and Dispatch
+O_Sent,S2,Offer Preparation and Dispatch
+W_Assess potential fraud,S2,Offer Preparation and Dispatch
+O_Returned,S3,Customer Response and Callback
+W_Call after offers,S3,Customer Response and Callback
+W_Call incomplete files,S3,Customer Response and Callback
+A_Pending,S4,Final Decision and Closure
+A_Cancelled,S4,Final Decision and Closure
+A_Denied,S4,Final Decision and Closure
+O_Accepted,S4,Final Decision and Closure
+O_Refused,S4,Final Decision and Closure
+O_Cancelled,S4,Final Decision and Closure
